@@ -1,1 +1,1 @@
-# Heart_attack_Classifier
+Deep-Learning algorithm can help saving lives, using sensors to track changes in bodies and then feeding these datapoints directly to the model. The above model uses a bunch of data to identify, if a person can suffer from heart attack or not in future, using the data provided. Model has shown an accuracy of 83.61%. To achieve this I have used keras-tuner to tune the number of neurons and layers required to achieve this task.
